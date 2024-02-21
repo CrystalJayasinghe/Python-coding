@@ -1,1 +1,2 @@
-# Python-coding
+## Python-coding
+### Assignment week 3/ Completed exercise
